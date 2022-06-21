@@ -84,11 +84,6 @@ const newMovie = (result) =>{
 
   }
 
-  /*const removeFromList = () =>{
-      let temp = 
-
-  }*/
-
   
 
 
