@@ -74,7 +74,7 @@ const newMovie = (result) =>{
       listBtn.setAttribute('class','listBtn');
       listBtn.setAttribute('value', listLength-1)
       listBtn.innerHTML = "X";
-      listBtn.addEventListener("click", removeFromList)
+      //listBtn.addEventListener("click", removeFromList)
   
       listCard.appendChild(listImg)
       listCard.appendChild(listTitle)
@@ -84,10 +84,10 @@ const newMovie = (result) =>{
 
   }
 
-  const removeFromList = () =>{
+  /*const removeFromList = () =>{
       let temp = 
 
-  }
+  }*/
 
   
 
